@@ -23,7 +23,7 @@ namespace Console_Application
             while (reader.Read())
             {
                 Console.WriteLine(reader[0] + "  | " + reader[1] + " | " + reader[2]);
-                Console.WriteLine("...........................................");
+                Console.WriteLine(".............................................");
             }
 
 
