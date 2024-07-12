@@ -103,6 +103,7 @@
       <DependentUpon>Model1.edmx</DependentUpon>
       <LastGenOutput>Model1.cs</LastGenOutput>
     </Content>
+    <Content Include="SourceCode\SourceCode7.txt" />
     <Content Include="SourceCode\KAYNAKkodlar1.txt" />
     <Content Include="SourceCode\SourceCode6.txt" />
   </ItemGroup>
